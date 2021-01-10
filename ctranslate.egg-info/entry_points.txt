@@ -1,0 +1,4 @@
+[console_scripts]
+ctransinit = ctrans.ctransinit:main
+ctransmake = ctrans.ctransmake:main
+

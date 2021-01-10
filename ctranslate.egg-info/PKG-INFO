@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: ctranslate
+Version: 0.0.1
+Summary: CTranslate package
+Home-page: https://github.com/matsuand/ctranslate
+Author: Matsuand
+Author-email: 30614168+matsuand@users.noreply.github.com
+License: UNKNOWN
+Description: # CTranslate package
+        
+        This is CTranslate package.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

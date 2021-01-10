@@ -1,0 +1,15 @@
+README.md
+setup.py
+ctrans/__init__.py
+ctrans/basefile.py
+ctrans/constants.py
+ctrans/ctransfile.py
+ctrans/ctransinit.py
+ctrans/ctransmake.py
+ctrans/ctransmanager.py
+ctranslate.egg-info/PKG-INFO
+ctranslate.egg-info/SOURCES.txt
+ctranslate.egg-info/dependency_links.txt
+ctranslate.egg-info/entry_points.txt
+ctranslate.egg-info/requires.txt
+ctranslate.egg-info/top_level.txt
